@@ -1,0 +1,8 @@
+E:\venkat sai\Dot_Net\Csharp\Static_Field\Static_Field\bin\Debug\Static_Field.exe.config
+E:\venkat sai\Dot_Net\Csharp\Static_Field\Static_Field\bin\Debug\Static_Field.exe
+E:\venkat sai\Dot_Net\Csharp\Static_Field\Static_Field\bin\Debug\Static_Field.pdb
+E:\venkat sai\Dot_Net\Csharp\Static_Field\Static_Field\obj\Debug\Static_Field.csproj.AssemblyReference.cache
+E:\venkat sai\Dot_Net\Csharp\Static_Field\Static_Field\obj\Debug\Static_Field.csproj.SuggestedBindingRedirects.cache
+E:\venkat sai\Dot_Net\Csharp\Static_Field\Static_Field\obj\Debug\Static_Field.csproj.CoreCompileInputs.cache
+E:\venkat sai\Dot_Net\Csharp\Static_Field\Static_Field\obj\Debug\Static_Field.exe
+E:\venkat sai\Dot_Net\Csharp\Static_Field\Static_Field\obj\Debug\Static_Field.pdb

@@ -1,0 +1,8 @@
+E:\venkat sai\Dot_Net\Csharp\Static_Method\Static_Method\bin\Debug\Static_Method.exe.config
+E:\venkat sai\Dot_Net\Csharp\Static_Method\Static_Method\bin\Debug\Static_Method.exe
+E:\venkat sai\Dot_Net\Csharp\Static_Method\Static_Method\bin\Debug\Static_Method.pdb
+E:\venkat sai\Dot_Net\Csharp\Static_Method\Static_Method\obj\Debug\Static_Method.csproj.AssemblyReference.cache
+E:\venkat sai\Dot_Net\Csharp\Static_Method\Static_Method\obj\Debug\Static_Method.csproj.SuggestedBindingRedirects.cache
+E:\venkat sai\Dot_Net\Csharp\Static_Method\Static_Method\obj\Debug\Static_Method.csproj.CoreCompileInputs.cache
+E:\venkat sai\Dot_Net\Csharp\Static_Method\Static_Method\obj\Debug\Static_Method.exe
+E:\venkat sai\Dot_Net\Csharp\Static_Method\Static_Method\obj\Debug\Static_Method.pdb
