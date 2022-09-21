@@ -1,0 +1,4 @@
+c:\users\welcome\documents\visual studio 2010\Projects\Heirarchical_Inheritance\Heirarchical_Inheritance\bin\Debug\Heirarchical_Inheritance.exe
+c:\users\welcome\documents\visual studio 2010\Projects\Heirarchical_Inheritance\Heirarchical_Inheritance\bin\Debug\Heirarchical_Inheritance.pdb
+c:\users\welcome\documents\visual studio 2010\Projects\Heirarchical_Inheritance\Heirarchical_Inheritance\obj\x86\Debug\Heirarchical_Inheritance.exe
+c:\users\welcome\documents\visual studio 2010\Projects\Heirarchical_Inheritance\Heirarchical_Inheritance\obj\x86\Debug\Heirarchical_Inheritance.pdb
