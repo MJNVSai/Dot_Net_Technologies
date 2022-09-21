@@ -1,0 +1,8 @@
+E:\venkat sai\Dot_Net\Csharp\Employee_1\Employee_1\bin\Debug\Employee_1.exe.config
+E:\venkat sai\Dot_Net\Csharp\Employee_1\Employee_1\bin\Debug\Employee_1.exe
+E:\venkat sai\Dot_Net\Csharp\Employee_1\Employee_1\bin\Debug\Employee_1.pdb
+E:\venkat sai\Dot_Net\Csharp\Employee_1\Employee_1\obj\Debug\Employee_1.csproj.AssemblyReference.cache
+E:\venkat sai\Dot_Net\Csharp\Employee_1\Employee_1\obj\Debug\Employee_1.csproj.SuggestedBindingRedirects.cache
+E:\venkat sai\Dot_Net\Csharp\Employee_1\Employee_1\obj\Debug\Employee_1.csproj.CoreCompileInputs.cache
+E:\venkat sai\Dot_Net\Csharp\Employee_1\Employee_1\obj\Debug\Employee_1.exe
+E:\venkat sai\Dot_Net\Csharp\Employee_1\Employee_1\obj\Debug\Employee_1.pdb
