@@ -1,0 +1,8 @@
+E:\venkat sai\Dot_Net\Csharp\Basic_C_Sharp\Basic_C_Sharp\bin\Debug\Basic_C_Sharp.exe.config
+E:\venkat sai\Dot_Net\Csharp\Basic_C_Sharp\Basic_C_Sharp\bin\Debug\Basic_C_Sharp.exe
+E:\venkat sai\Dot_Net\Csharp\Basic_C_Sharp\Basic_C_Sharp\bin\Debug\Basic_C_Sharp.pdb
+E:\venkat sai\Dot_Net\Csharp\Basic_C_Sharp\Basic_C_Sharp\obj\Debug\Basic_C_Sharp.csproj.AssemblyReference.cache
+E:\venkat sai\Dot_Net\Csharp\Basic_C_Sharp\Basic_C_Sharp\obj\Debug\Basic_C_Sharp.csproj.SuggestedBindingRedirects.cache
+E:\venkat sai\Dot_Net\Csharp\Basic_C_Sharp\Basic_C_Sharp\obj\Debug\Basic_C_Sharp.csproj.CoreCompileInputs.cache
+E:\venkat sai\Dot_Net\Csharp\Basic_C_Sharp\Basic_C_Sharp\obj\Debug\Basic_C_Sharp.exe
+E:\venkat sai\Dot_Net\Csharp\Basic_C_Sharp\Basic_C_Sharp\obj\Debug\Basic_C_Sharp.pdb

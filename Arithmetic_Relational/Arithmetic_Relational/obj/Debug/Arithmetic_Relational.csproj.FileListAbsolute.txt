@@ -1,0 +1,8 @@
+E:\venkat sai\Dot_Net\Csharp\Arithmetic_Relational\Arithmetic_Relational\bin\Debug\Arithmetic_Relational.exe.config
+E:\venkat sai\Dot_Net\Csharp\Arithmetic_Relational\Arithmetic_Relational\bin\Debug\Arithmetic_Relational.exe
+E:\venkat sai\Dot_Net\Csharp\Arithmetic_Relational\Arithmetic_Relational\bin\Debug\Arithmetic_Relational.pdb
+E:\venkat sai\Dot_Net\Csharp\Arithmetic_Relational\Arithmetic_Relational\obj\Debug\Arithmetic_Relational.csproj.AssemblyReference.cache
+E:\venkat sai\Dot_Net\Csharp\Arithmetic_Relational\Arithmetic_Relational\obj\Debug\Arithmetic_Relational.csproj.SuggestedBindingRedirects.cache
+E:\venkat sai\Dot_Net\Csharp\Arithmetic_Relational\Arithmetic_Relational\obj\Debug\Arithmetic_Relational.csproj.CoreCompileInputs.cache
+E:\venkat sai\Dot_Net\Csharp\Arithmetic_Relational\Arithmetic_Relational\obj\Debug\Arithmetic_Relational.exe
+E:\venkat sai\Dot_Net\Csharp\Arithmetic_Relational\Arithmetic_Relational\obj\Debug\Arithmetic_Relational.pdb
