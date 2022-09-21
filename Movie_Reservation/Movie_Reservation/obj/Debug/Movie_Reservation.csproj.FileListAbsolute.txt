@@ -1,0 +1,8 @@
+E:\venkat sai\Dot_Net\Csharp\Movie_Reservation\Movie_Reservation\bin\Debug\Movie_Reservation.exe.config
+E:\venkat sai\Dot_Net\Csharp\Movie_Reservation\Movie_Reservation\bin\Debug\Movie_Reservation.exe
+E:\venkat sai\Dot_Net\Csharp\Movie_Reservation\Movie_Reservation\bin\Debug\Movie_Reservation.pdb
+E:\venkat sai\Dot_Net\Csharp\Movie_Reservation\Movie_Reservation\obj\Debug\Movie_Reservation.csproj.AssemblyReference.cache
+E:\venkat sai\Dot_Net\Csharp\Movie_Reservation\Movie_Reservation\obj\Debug\Movie_Reservation.csproj.SuggestedBindingRedirects.cache
+E:\venkat sai\Dot_Net\Csharp\Movie_Reservation\Movie_Reservation\obj\Debug\Movie_Reservation.csproj.CoreCompileInputs.cache
+E:\venkat sai\Dot_Net\Csharp\Movie_Reservation\Movie_Reservation\obj\Debug\Movie_Reservation.exe
+E:\venkat sai\Dot_Net\Csharp\Movie_Reservation\Movie_Reservation\obj\Debug\Movie_Reservation.pdb

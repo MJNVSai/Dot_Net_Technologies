@@ -1,0 +1,8 @@
+E:\venkat sai\Dot_Net\Csharp\Properties_2\Properties_2\bin\Debug\Properties_2.exe.config
+E:\venkat sai\Dot_Net\Csharp\Properties_2\Properties_2\bin\Debug\Properties_2.exe
+E:\venkat sai\Dot_Net\Csharp\Properties_2\Properties_2\bin\Debug\Properties_2.pdb
+E:\venkat sai\Dot_Net\Csharp\Properties_2\Properties_2\obj\Debug\Properties_2.csproj.AssemblyReference.cache
+E:\venkat sai\Dot_Net\Csharp\Properties_2\Properties_2\obj\Debug\Properties_2.csproj.SuggestedBindingRedirects.cache
+E:\venkat sai\Dot_Net\Csharp\Properties_2\Properties_2\obj\Debug\Properties_2.csproj.CoreCompileInputs.cache
+E:\venkat sai\Dot_Net\Csharp\Properties_2\Properties_2\obj\Debug\Properties_2.exe
+E:\venkat sai\Dot_Net\Csharp\Properties_2\Properties_2\obj\Debug\Properties_2.pdb
