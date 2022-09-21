@@ -1,0 +1,8 @@
+E:\venkat sai\Dot_Net\Csharp\Student_Class\Student_Class\bin\Debug\Student_Class.exe.config
+E:\venkat sai\Dot_Net\Csharp\Student_Class\Student_Class\bin\Debug\Student_Class.exe
+E:\venkat sai\Dot_Net\Csharp\Student_Class\Student_Class\bin\Debug\Student_Class.pdb
+E:\venkat sai\Dot_Net\Csharp\Student_Class\Student_Class\obj\Debug\Student_Class.csproj.AssemblyReference.cache
+E:\venkat sai\Dot_Net\Csharp\Student_Class\Student_Class\obj\Debug\Student_Class.csproj.SuggestedBindingRedirects.cache
+E:\venkat sai\Dot_Net\Csharp\Student_Class\Student_Class\obj\Debug\Student_Class.csproj.CoreCompileInputs.cache
+E:\venkat sai\Dot_Net\Csharp\Student_Class\Student_Class\obj\Debug\Student_Class.exe
+E:\venkat sai\Dot_Net\Csharp\Student_Class\Student_Class\obj\Debug\Student_Class.pdb
