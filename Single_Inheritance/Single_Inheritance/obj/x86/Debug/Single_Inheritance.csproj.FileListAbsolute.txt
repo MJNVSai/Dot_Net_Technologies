@@ -1,0 +1,4 @@
+c:\users\welcome\documents\visual studio 2010\Projects\Single_Inheritance\Single_Inheritance\bin\Debug\Single_Inheritance.exe
+c:\users\welcome\documents\visual studio 2010\Projects\Single_Inheritance\Single_Inheritance\bin\Debug\Single_Inheritance.pdb
+c:\users\welcome\documents\visual studio 2010\Projects\Single_Inheritance\Single_Inheritance\obj\x86\Debug\Single_Inheritance.exe
+c:\users\welcome\documents\visual studio 2010\Projects\Single_Inheritance\Single_Inheritance\obj\x86\Debug\Single_Inheritance.pdb
