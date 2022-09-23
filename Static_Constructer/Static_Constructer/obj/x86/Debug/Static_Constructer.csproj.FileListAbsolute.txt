@@ -1,0 +1,4 @@
+c:\users\welcome\documents\visual studio 2010\Projects\Static_Constructer\Static_Constructer\bin\Debug\Static_Constructer.exe
+c:\users\welcome\documents\visual studio 2010\Projects\Static_Constructer\Static_Constructer\bin\Debug\Static_Constructer.pdb
+c:\users\welcome\documents\visual studio 2010\Projects\Static_Constructer\Static_Constructer\obj\x86\Debug\Static_Constructer.exe
+c:\users\welcome\documents\visual studio 2010\Projects\Static_Constructer\Static_Constructer\obj\x86\Debug\Static_Constructer.pdb
