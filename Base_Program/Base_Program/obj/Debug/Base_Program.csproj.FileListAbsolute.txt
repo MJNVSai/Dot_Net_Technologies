@@ -1,0 +1,8 @@
+E:\venkat sai\Dot_Net\Csharp\Base_Program\Base_Program\bin\Debug\Base_Program.exe.config
+E:\venkat sai\Dot_Net\Csharp\Base_Program\Base_Program\bin\Debug\Base_Program.exe
+E:\venkat sai\Dot_Net\Csharp\Base_Program\Base_Program\bin\Debug\Base_Program.pdb
+E:\venkat sai\Dot_Net\Csharp\Base_Program\Base_Program\obj\Debug\Base_Program.csproj.AssemblyReference.cache
+E:\venkat sai\Dot_Net\Csharp\Base_Program\Base_Program\obj\Debug\Base_Program.csproj.SuggestedBindingRedirects.cache
+E:\venkat sai\Dot_Net\Csharp\Base_Program\Base_Program\obj\Debug\Base_Program.csproj.CoreCompileInputs.cache
+E:\venkat sai\Dot_Net\Csharp\Base_Program\Base_Program\obj\Debug\Base_Program.exe
+E:\venkat sai\Dot_Net\Csharp\Base_Program\Base_Program\obj\Debug\Base_Program.pdb
