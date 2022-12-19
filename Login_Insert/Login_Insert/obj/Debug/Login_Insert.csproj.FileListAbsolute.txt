@@ -1,0 +1,11 @@
+E:\venkat sai\Dot_Net\Csharp\Login_Insert\Login_Insert\bin\Debug\Login_Insert.exe.config
+E:\venkat sai\Dot_Net\Csharp\Login_Insert\Login_Insert\bin\Debug\Login_Insert.exe
+E:\venkat sai\Dot_Net\Csharp\Login_Insert\Login_Insert\bin\Debug\Login_Insert.pdb
+E:\venkat sai\Dot_Net\Csharp\Login_Insert\Login_Insert\obj\Debug\Login_Insert.csproj.AssemblyReference.cache
+E:\venkat sai\Dot_Net\Csharp\Login_Insert\Login_Insert\obj\Debug\Login_Insert.csproj.SuggestedBindingRedirects.cache
+E:\venkat sai\Dot_Net\Csharp\Login_Insert\Login_Insert\obj\Debug\Login_Insert.Form1.resources
+E:\venkat sai\Dot_Net\Csharp\Login_Insert\Login_Insert\obj\Debug\Login_Insert.Properties.Resources.resources
+E:\venkat sai\Dot_Net\Csharp\Login_Insert\Login_Insert\obj\Debug\Login_Insert.csproj.GenerateResource.cache
+E:\venkat sai\Dot_Net\Csharp\Login_Insert\Login_Insert\obj\Debug\Login_Insert.csproj.CoreCompileInputs.cache
+E:\venkat sai\Dot_Net\Csharp\Login_Insert\Login_Insert\obj\Debug\Login_Insert.exe
+E:\venkat sai\Dot_Net\Csharp\Login_Insert\Login_Insert\obj\Debug\Login_Insert.pdb

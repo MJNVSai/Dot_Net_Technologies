@@ -1,4 +1,0 @@
-c:\users\welcome\documents\visual studio 2010\Projects\Aggregation\Aggregation\bin\Debug\Aggregation.exe
-c:\users\welcome\documents\visual studio 2010\Projects\Aggregation\Aggregation\bin\Debug\Aggregation.pdb
-c:\users\welcome\documents\visual studio 2010\Projects\Aggregation\Aggregation\obj\x86\Debug\Aggregation.exe
-c:\users\welcome\documents\visual studio 2010\Projects\Aggregation\Aggregation\obj\x86\Debug\Aggregation.pdb

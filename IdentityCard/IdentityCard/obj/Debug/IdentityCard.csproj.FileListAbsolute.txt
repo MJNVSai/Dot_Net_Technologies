@@ -1,0 +1,14 @@
+E:\venkat sai\Dot_Net\Csharp\IdentityCard\IdentityCard\bin\Debug\IdentityCard.exe.config
+E:\venkat sai\Dot_Net\Csharp\IdentityCard\IdentityCard\bin\Debug\IdentityCard.exe
+E:\venkat sai\Dot_Net\Csharp\IdentityCard\IdentityCard\bin\Debug\IdentityCard.pdb
+E:\venkat sai\Dot_Net\Csharp\IdentityCard\IdentityCard\obj\Debug\IdentityCard.csproj.AssemblyReference.cache
+E:\venkat sai\Dot_Net\Csharp\IdentityCard\IdentityCard\obj\Debug\IdentityCard.csproj.SuggestedBindingRedirects.cache
+E:\venkat sai\Dot_Net\Csharp\IdentityCard\IdentityCard\obj\Debug\IdentityCard.Form1.resources
+E:\venkat sai\Dot_Net\Csharp\IdentityCard\IdentityCard\obj\Debug\IdentityCard.Properties.Resources.resources
+E:\venkat sai\Dot_Net\Csharp\IdentityCard\IdentityCard\obj\Debug\IdentityCard.csproj.GenerateResource.cache
+E:\venkat sai\Dot_Net\Csharp\IdentityCard\IdentityCard\obj\Debug\IdentityCard.csproj.CoreCompileInputs.cache
+E:\venkat sai\Dot_Net\Csharp\IdentityCard\IdentityCard\obj\Debug\IdentityCard.exe
+E:\venkat sai\Dot_Net\Csharp\IdentityCard\IdentityCard\obj\Debug\IdentityCard.pdb
+E:\venkat sai\Dot_Net\Csharp\IdentityCard\IdentityCard\obj\Debug\IdentityCard.vrsecindentity.resources
+E:\venkat sai\Dot_Net\Csharp\IdentityCard\IdentityCard\bin\Debug\Zen.Barcode.Core.dll
+E:\venkat sai\Dot_Net\Csharp\IdentityCard\IdentityCard\obj\Debug\IdentityCard.csproj.CopyComplete

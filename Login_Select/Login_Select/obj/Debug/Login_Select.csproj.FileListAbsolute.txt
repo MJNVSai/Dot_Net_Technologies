@@ -1,0 +1,12 @@
+E:\venkat sai\Dot_Net\Csharp\Login_Select\Login_Select\bin\Debug\Login_Select.exe.config
+E:\venkat sai\Dot_Net\Csharp\Login_Select\Login_Select\bin\Debug\Login_Select.exe
+E:\venkat sai\Dot_Net\Csharp\Login_Select\Login_Select\bin\Debug\Login_Select.pdb
+E:\venkat sai\Dot_Net\Csharp\Login_Select\Login_Select\obj\Debug\Login_Select.csproj.AssemblyReference.cache
+E:\venkat sai\Dot_Net\Csharp\Login_Select\Login_Select\obj\Debug\Login_Select.csproj.SuggestedBindingRedirects.cache
+E:\venkat sai\Dot_Net\Csharp\Login_Select\Login_Select\obj\Debug\Login_Select.Form1.resources
+E:\venkat sai\Dot_Net\Csharp\Login_Select\Login_Select\obj\Debug\Login_Select.Form2.resources
+E:\venkat sai\Dot_Net\Csharp\Login_Select\Login_Select\obj\Debug\Login_Select.Properties.Resources.resources
+E:\venkat sai\Dot_Net\Csharp\Login_Select\Login_Select\obj\Debug\Login_Select.csproj.GenerateResource.cache
+E:\venkat sai\Dot_Net\Csharp\Login_Select\Login_Select\obj\Debug\Login_Select.csproj.CoreCompileInputs.cache
+E:\venkat sai\Dot_Net\Csharp\Login_Select\Login_Select\obj\Debug\Login_Select.exe
+E:\venkat sai\Dot_Net\Csharp\Login_Select\Login_Select\obj\Debug\Login_Select.pdb

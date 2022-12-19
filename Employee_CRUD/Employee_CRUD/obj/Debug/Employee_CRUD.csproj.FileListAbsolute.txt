@@ -1,0 +1,11 @@
+E:\venkat sai\Dot_Net\Csharp\Employee_CRUD\Employee_CRUD\bin\Debug\Employee_CRUD.exe.config
+E:\venkat sai\Dot_Net\Csharp\Employee_CRUD\Employee_CRUD\bin\Debug\Employee_CRUD.exe
+E:\venkat sai\Dot_Net\Csharp\Employee_CRUD\Employee_CRUD\bin\Debug\Employee_CRUD.pdb
+E:\venkat sai\Dot_Net\Csharp\Employee_CRUD\Employee_CRUD\obj\Debug\Employee_CRUD.csproj.AssemblyReference.cache
+E:\venkat sai\Dot_Net\Csharp\Employee_CRUD\Employee_CRUD\obj\Debug\Employee_CRUD.csproj.SuggestedBindingRedirects.cache
+E:\venkat sai\Dot_Net\Csharp\Employee_CRUD\Employee_CRUD\obj\Debug\Employee_CRUD.Form1.resources
+E:\venkat sai\Dot_Net\Csharp\Employee_CRUD\Employee_CRUD\obj\Debug\Employee_CRUD.Properties.Resources.resources
+E:\venkat sai\Dot_Net\Csharp\Employee_CRUD\Employee_CRUD\obj\Debug\Employee_CRUD.csproj.GenerateResource.cache
+E:\venkat sai\Dot_Net\Csharp\Employee_CRUD\Employee_CRUD\obj\Debug\Employee_CRUD.csproj.CoreCompileInputs.cache
+E:\venkat sai\Dot_Net\Csharp\Employee_CRUD\Employee_CRUD\obj\Debug\Employee_CRUD.exe
+E:\venkat sai\Dot_Net\Csharp\Employee_CRUD\Employee_CRUD\obj\Debug\Employee_CRUD.pdb

@@ -1,0 +1,48 @@
+﻿@page
+@model CrudOperations_Razor.Pages.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1> VRSEC Student Registration </h1>
+
+<p>
+    <a asp-page="Create" class="btn btn-primary">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.StudentRegistration[0].Stuname)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.StudentRegistration[0].Email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.StudentRegistration[0].Salary)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.StudentRegistration) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Stuname)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Salary)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.Stuid" class="btn btn-secondary">Edit</a> |
+                    <a asp-page="./Details" asp-route-id="@item.Stuid" class="btn btn-secondary">Details</a> |
+                    <a asp-page="./Delete" asp-route-id="@item.Stuid" class="btn btn-danger">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
