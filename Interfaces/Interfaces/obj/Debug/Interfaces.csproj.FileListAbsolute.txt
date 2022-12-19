@@ -1,0 +1,8 @@
+E:\venkat sai\Dot_Net\Csharp\Interfaces\Interfaces\bin\Debug\Interfaces.exe.config
+E:\venkat sai\Dot_Net\Csharp\Interfaces\Interfaces\bin\Debug\Interfaces.exe
+E:\venkat sai\Dot_Net\Csharp\Interfaces\Interfaces\bin\Debug\Interfaces.pdb
+E:\venkat sai\Dot_Net\Csharp\Interfaces\Interfaces\obj\Debug\Interfaces.csproj.AssemblyReference.cache
+E:\venkat sai\Dot_Net\Csharp\Interfaces\Interfaces\obj\Debug\Interfaces.csproj.SuggestedBindingRedirects.cache
+E:\venkat sai\Dot_Net\Csharp\Interfaces\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+E:\venkat sai\Dot_Net\Csharp\Interfaces\Interfaces\obj\Debug\Interfaces.exe
+E:\venkat sai\Dot_Net\Csharp\Interfaces\Interfaces\obj\Debug\Interfaces.pdb
